@@ -1,9 +1,8 @@
-<SOFTPKG NAME="Locale-Maketext-TieHash-L10N" VERSION="0,12,0,0">
-    <TITLE>Locale-Maketext-TieHash-L10N</TITLE>
+<SOFTPKG NAME="Locale-Maketext-TieHash-L10N" VERSION="0.13">
     <ABSTRACT>Locale::Maketext::TieHash::L10N - Tying language handle to a hash</ABSTRACT>
     <AUTHOR>Steffen Winkler &lt;steffenw at cpan.org&gt;</AUTHOR>
     <IMPLEMENTATION>
-        <DEPENDENCY NAME="Params-Validate" VERSION="0,0,0,0" />
-        <CODEBASE HREF="PPM-Locale-Maketext-TieHash-L10N-0.12.tar.gz" />
+        <REQUIRE NAME="Params::Validate" VERSION="0" />
+        <CODEBASE HREF="PPM-Locale-Maketext-TieHash-L10N-0.13.tar.gz" />
     </IMPLEMENTATION>
 </SOFTPKG>
